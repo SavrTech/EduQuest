@@ -17,7 +17,7 @@ A ready-to-use e-learning app wireframe built with **OMIA Studio**. These aren't
 
 1. **Explore** the structure and user flows in the wireframe link above.
 2. **Import** it into [OMIA Studio](https://omia.pro).
-3. **Customize** the design and functionality (with AI) for your specific use case.
+3. **Customize** the design and functionality using OMIA Studio's AI-assisted tools for your specific use case.
 4. **Generate** your production-ready, cross-platform app from the same setup.
 
 ## 📦 About
