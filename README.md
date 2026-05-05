@@ -4,12 +4,16 @@
 <!-- https://github.com/user-attachments/assets/PLACEHOLDER_ASSET_ID -->
 
 
+https://github.com/user-attachments/assets/511abcc2-faee-4bc9-bf84-5d3f6386d89d
+
+
+
 A ready-to-use e-learning app wireframe built with **OMIA Studio**. These aren't just static designs — they're functional layouts you can import, customize, and turn into cross-platform apps without starting from scratch.
 
 ## 🔗 Links
 
-- **Wireframe:** [View Wireframe](PLACEHOLDER_WIREFRAME_URL)
-- **Exported ZIP:** [Download](PLACEHOLDER_ZIP_DOWNLOAD_URL)
+- **Wireframe:** [View Wireframe](https://algure.github.io/oconzpdomd_1777979886860/)
+- **Exported ZIP:** [Download](https://github.com/SavrTech/EduQuest/releases/download/ziprel/EduQuest.zip)
 - **Getting Started Guide:** [Migrating from OMIA Web to Local OMIA IDE](https://omia.pro/blog/migrating-from-omia-web-to-local-omia-ide.html)
 - **More Resources:** [OMIA Blog](https://omia.pro/blog.html)
 
