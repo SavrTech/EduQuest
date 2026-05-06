@@ -3,8 +3,7 @@
 <!-- MEDIA_PLACEHOLDER: Replace with a demo video or animated GIF of the EduQuest app -->
 <!-- https://github.com/user-attachments/assets/PLACEHOLDER_ASSET_ID -->
 
-
-https://github.com/user-attachments/assets/511abcc2-faee-4bc9-bf84-5d3f6386d89d
+https://github.com/user-attachments/assets/43553cb9-1248-4e37-8295-c133821df082
 
 
 
@@ -12,7 +11,7 @@ A ready-to-use e-learning app wireframe built with **OMIA Studio**. These aren't
 
 ## 🔗 Links
 
-- **Wireframe:** [View Wireframe](https://algure.github.io/oconzpdomd_1777979886860/)
+- **Wireframe:** [View Wireframe](https://algure.github.io/hspdnsfhbn_1778067750152/)
 - **Exported ZIP:** [Download](https://github.com/SavrTech/EduQuest/releases/download/ziprel/EduQuest.zip)
 - **Getting Started Guide:** [Migrating from OMIA Web to Local OMIA IDE](https://omia.pro/blog/migrating-from-omia-web-to-local-omia-ide.html)
 - **More Resources:** [OMIA Blog](https://omia.pro/blog.html)
